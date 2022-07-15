@@ -1,0 +1,13 @@
+C:\Users\Theodore\OneDrive\Documents\Uni\QUT\2NDYEAR\IFN563\Exercise\Assignmentv2\Assignmentv2\obj\Debug\netcoreapp3.1\Assignmentv2.csproj.AssemblyReference.cache
+C:\Users\Theodore\OneDrive\Documents\Uni\QUT\2NDYEAR\IFN563\Exercise\Assignmentv2\Assignmentv2\obj\Debug\netcoreapp3.1\Assignmentv2.AssemblyInfoInputs.cache
+C:\Users\Theodore\OneDrive\Documents\Uni\QUT\2NDYEAR\IFN563\Exercise\Assignmentv2\Assignmentv2\obj\Debug\netcoreapp3.1\Assignmentv2.AssemblyInfo.cs
+C:\Users\Theodore\OneDrive\Documents\Uni\QUT\2NDYEAR\IFN563\Exercise\Assignmentv2\Assignmentv2\obj\Debug\netcoreapp3.1\Assignmentv2.csproj.CoreCompileInputs.cache
+C:\Users\Theodore\OneDrive\Documents\Uni\QUT\2NDYEAR\IFN563\Exercise\Assignmentv2\Assignmentv2\bin\Debug\netcoreapp3.1\Assignmentv2.exe
+C:\Users\Theodore\OneDrive\Documents\Uni\QUT\2NDYEAR\IFN563\Exercise\Assignmentv2\Assignmentv2\bin\Debug\netcoreapp3.1\Assignmentv2.deps.json
+C:\Users\Theodore\OneDrive\Documents\Uni\QUT\2NDYEAR\IFN563\Exercise\Assignmentv2\Assignmentv2\bin\Debug\netcoreapp3.1\Assignmentv2.runtimeconfig.json
+C:\Users\Theodore\OneDrive\Documents\Uni\QUT\2NDYEAR\IFN563\Exercise\Assignmentv2\Assignmentv2\bin\Debug\netcoreapp3.1\Assignmentv2.runtimeconfig.dev.json
+C:\Users\Theodore\OneDrive\Documents\Uni\QUT\2NDYEAR\IFN563\Exercise\Assignmentv2\Assignmentv2\bin\Debug\netcoreapp3.1\Assignmentv2.dll
+C:\Users\Theodore\OneDrive\Documents\Uni\QUT\2NDYEAR\IFN563\Exercise\Assignmentv2\Assignmentv2\bin\Debug\netcoreapp3.1\Assignmentv2.pdb
+C:\Users\Theodore\OneDrive\Documents\Uni\QUT\2NDYEAR\IFN563\Exercise\Assignmentv2\Assignmentv2\obj\Debug\netcoreapp3.1\Assignmentv2.dll
+C:\Users\Theodore\OneDrive\Documents\Uni\QUT\2NDYEAR\IFN563\Exercise\Assignmentv2\Assignmentv2\obj\Debug\netcoreapp3.1\Assignmentv2.pdb
+C:\Users\Theodore\OneDrive\Documents\Uni\QUT\2NDYEAR\IFN563\Exercise\Assignmentv2\Assignmentv2\obj\Debug\netcoreapp3.1\Assignmentv2.genruntimeconfig.cache
